@@ -4,3 +4,12 @@ In this analysis, it shows the variation of house prices for  regions in East,We
 The data for the analysis was scraped from the web using Scrapy model.
 From the analysis it was seen that Bangalore Central and West had high prices compared to other regions.
 
+![](/Figure_8.png)
+
+The carpet area had the higher impact on the price of the house.
+
+![](/Figure_3.png)
+
+The interesting fact is that most of the houses had SemiFurnished houses.
+
+![](/Figure_10.png)
